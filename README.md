@@ -12,6 +12,8 @@ This project is a visual based banking application where users can create bank a
 - Different states depending on the amount of money in the account
 
 ### Dependencies
-The calculator uses JavaFX to function. 
+The Bank Application uses JavaFX and JDK 17 to function. 
 
+### Running the Application
+To run the bank application, clone or download this repository to your local machine and run the `main` file of this project on your preferred IDE with the needed dependencies.
 
